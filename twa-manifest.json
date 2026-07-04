@@ -1,0 +1,33 @@
+{
+  "packageId": "com.yourname.tappytapbird",
+  "host": "your-domain-or-username.github.io",
+  "name": "Tappy Tap Bird",
+  "launcherName": "Tappy Bird",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "themeColor": "#2D1B4E",
+  "themeColorDark": "#2D1B4E",
+  "navigationColor": "#1A1025",
+  "navigationColorDark": "#1A1025",
+  "backgroundColor": "#1A1025",
+  "enableNotifications": false,
+  "startUrl": "/index.html",
+  "iconUrl": "https://your-domain-or-username.github.io/icon-512.png",
+  "maskableIconUrl": "https://your-domain-or-username.github.io/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://your-domain-or-username.github.io/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://your-domain-or-username.github.io/",
+  "minSdkVersion": 21
+}
