@@ -2,9 +2,9 @@
   "name": "Tappy Tap Bird",
   "short_name": "Tappy Bird",
   "description": "Tap to flap, dodge the crystal shards, beat your best score.",
-  "start_url": "/index.html",
-  "id": "/index.html",
-  "scope": "/",
+  "start_url": "/tappy-tap-bird/index.html",
+  "id": "/tappy-tap-bird/index.html",
+  "scope": "/tappy-tap-bird/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#1A1025",
@@ -42,3 +42,4 @@
     }
   ]
 }
+
